@@ -1,0 +1,10 @@
+function oddOrEven(array) {
+  //enter code here
+  let result = 0;
+  for (let x of array) {
+    result += x;
+  }
+  return result % 2 === 0 ? "even" : "odd";
+}
+
+console.log(oddOrEven([0, 1, 4]));
