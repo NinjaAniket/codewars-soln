@@ -1,0 +1,6 @@
+function isPangram(string) {
+  const alphabet = "abcdefghijklmnopqrstuvwxyz".split("");
+  return alphabet.every((item) => string.toLowerCase().includes(item));
+}
+
+console.log(isPangram("How quickly daft jumping zebras vex."));
