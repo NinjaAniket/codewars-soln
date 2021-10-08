@@ -2,7 +2,7 @@
 
 Code wars solutions for katas
 
-8-KYU
+8---KYU--
 
 1.Correct the mistakes of the character recognition software
 https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software/discuss/javascript
@@ -22,7 +22,9 @@ https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/
 6.Get the mean of an array
 https://www.codewars.com/kata/563e320cee5dddcf77000158/
 
-6 kyu
+-----------------------||------------------------------
+
+6---KYU--
 
 1.Detect Pangram
 https://www.codewars.com/kata/545cedaa9943f7fe7b000048
