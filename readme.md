@@ -18,3 +18,7 @@ https://www.codewars.com/kata/57a429e253ba3381850000fb
 
 5.Array plus array
 https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/
+
+6 kyu
+1.Detect Pangram
+https://www.codewars.com/kata/545cedaa9943f7fe7b000048
