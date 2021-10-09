@@ -26,5 +26,10 @@ https://www.codewars.com/kata/563e320cee5dddcf77000158/
 
 6---KYU--
 
+1.Summing a number's digits
+https://www.codewars.com/kata/52f3149496de55aded000410
+
+6---KYU--
+
 1.Detect Pangram
 https://www.codewars.com/kata/545cedaa9943f7fe7b000048
