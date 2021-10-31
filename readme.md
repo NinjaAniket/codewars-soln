@@ -33,3 +33,6 @@ https://www.codewars.com/kata/52f3149496de55aded000410
 
 1.Detect Pangram
 https://www.codewars.com/kata/545cedaa9943f7fe7b000048
+
+2.Stop gninnipS My sdroW!
+https://www.codewars.com/kata/5264d2b162488dc400000001
