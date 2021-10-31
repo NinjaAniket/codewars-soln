@@ -24,7 +24,7 @@ https://www.codewars.com/kata/563e320cee5dddcf77000158/
 
 -----------------------||------------------------------
 
-6---KYU--
+7---KYU-- 1.https://www.codewars.com/kata/544aed4c4a30184e960010f4
 
 1.Summing a number's digits
 https://www.codewars.com/kata/52f3149496de55aded000410
