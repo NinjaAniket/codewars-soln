@@ -36,3 +36,6 @@ https://www.codewars.com/kata/545cedaa9943f7fe7b000048
 
 2.Stop gninnipS My sdroW!
 https://www.codewars.com/kata/5264d2b162488dc400000001
+
+3. Format a string of names like 'Bart, Lisa & Maggie'.
+   https://www.codewars.com/kata/53368a47e38700bd8300030d/train/javascript
