@@ -1,0 +1,22 @@
+function rot13(message) {
+  //your code here
+  // const result = Array.prototype.map.call(message, (val, i) => val )
+  let decipered = "";
+  for (let x of message) {
+    const charCode = x.charCodeAt();
+    charCode;
+    if (charCode >= 65 && charCode <= 90) {
+      const cipherCode = ((charCode - 65 + 13) % 26) + 65;
+      decipered += String.fromCharCode(cipherCode);
+    } else if (charCode >= 97 && charCode <= 122) {
+      const cipherCode = ((charCode - 97 + 13) % 26) + 97;
+      decipered += String.fromCharCode(cipherCode);
+    } else {
+      decipered += x;
+    }
+  }
+  return decipered;
+}
+
+console.log(rot13("EBG13 rknzcyr."));
+console.log(rot13("This is my first ROT13 excercise!"));
