@@ -1,0 +1,23 @@
+function findOdd(num) {
+  //happy coding!
+
+  //compare each arry to another array if they are equal increment the count
+  //count % 2 === 0 return that number
+  let count = 0;
+  let sortedArr = num.sort();
+  for (let i = 0; i < sortedArr.length; i++) {
+    for (let j = 0; j < sortedArr.length; j++) {
+      if (sortedArr[i] == sortedArr[j]) {
+        count++;
+      }
+    }
+
+    if (count % 2 !== 0) {
+      return sortedArr[i];
+    }
+  }
+
+  return 0;
+}
+
+console.log(findOdd([1, 1, 2, 2, 4]));
